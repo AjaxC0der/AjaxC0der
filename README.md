@@ -19,9 +19,7 @@ I'm an aspiring developer with a passion for coding and a strong foundation in v
 - Innovative tech projects that challenge my skills and help me grow
 
 ## Contact Me
-- 📧 Email: [your-email@example.com]
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle) (if applicable)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) (if applicable)
+- 📧 Email: unracoale@gmail.com
 
 ## Pronouns
 He/Him
